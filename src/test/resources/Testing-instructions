@@ -1,0 +1,3 @@
+#Navigate to localhost:8080/ to view the output for hello
+#Navigate to localhost:8080/bye to view the output for bye
+# adding suffixes will not affect anything e.g. 8080/.html or 8080/bye.do

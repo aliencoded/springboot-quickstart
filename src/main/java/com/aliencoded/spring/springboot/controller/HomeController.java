@@ -28,4 +28,9 @@ public class HomeController {
 	public String home() {
 		return "Custom SpringApp started...";
 	}
+	
+	@RequestMapping("bye")
+	public String bye() {
+		return "Goodbye";
+	}
 }
